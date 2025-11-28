@@ -1,0 +1,6 @@
+name: MapMaker
+version: 1.0.0
+main: SRBW\MapMaker\Main
+api: 5.0.0
+author: SRBW
+description: Tool to get block and position coordinates for SRBW map creation.
